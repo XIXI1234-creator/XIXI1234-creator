@@ -27,3 +27,10 @@ Currently seeking an entry-level position in Quantitative Finance starting July 
 
 - Fixed Income Analytics  
   Bond pricing, yield curve analysis, and interest rate sensitivity.
+
+## Contact
+
+Feel free to reach out:
+
+- LinkedIn: www.linkedin.com/in/xixi-khamsane-0306371b6
+- Email: xixikhamsane16@gmail.com
