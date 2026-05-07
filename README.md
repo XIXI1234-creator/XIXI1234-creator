@@ -14,14 +14,11 @@ Master’s student in Financial Engineering with strong interest in data science
 
 ## Projects
 
-- Machine Learning for Fraud Detection (academic project)
-  Academic project based on a Collège de France Data Challenge
+- Machine Learning for Fraud Detection (academic project) : Academic project based on a Collège de France Data Challenge
 
-- Option Pricing Model 
-  Monte Carlo simulation and Black-Scholes implementation for European options pricing.
+- Option Pricing Model  : Monte Carlo simulation and Black-Scholes implementation for European options pricing.
 
-- Salary Prediction ML Pipeline using skrub and scikit-learn
-An end-to-end machine learning project that predicts employee salaries from real-world tabular data using automated preprocessing with skrub and regression models built with scikit-learn
+- Salary Prediction ML Pipeline using skrub and scikit-learn : An end-to-end machine learning project that predicts employee salaries from real-world tabular data using automated preprocessing with skrub and regression models built with scikit-learn
 
 ## Contact
 
