@@ -20,11 +20,8 @@ Master’s student in Financial Engineering with strong interest in data science
 - Option Pricing Model 
   Monte Carlo simulation and Black-Scholes implementation for European options pricing.
 
-- Portfolio Risk Analysis  
-  Computation of Value at Risk (VaR), volatility, and portfolio optimization.
-
-- Fixed Income Analytics  
-  Bond pricing, yield curve analysis, and interest rate sensitivity.
+- Salary Prediction ML Pipeline using skrub and scikit-learn
+An end-to-end machine learning project that predicts employee salaries from real-world tabular data using automated preprocessing with skrub and regression models built with scikit-learn
 
 ## Contact
 
