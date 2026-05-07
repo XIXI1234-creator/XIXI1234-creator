@@ -1,4 +1,4 @@
-# Hi, I'm Xixi 👋
+# Hi, I'm Xixi 
 
 Master’s student in Financial Engineering with strong interest in data science, machine learning and open-source development. Seeking opportunities to apply Python skills in collaborative and real-world tech projects.
 
