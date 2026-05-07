@@ -1,8 +1,6 @@
 # Hi, I'm Xixi 👋
 
-Final-year Master's student in Financial Engineering with a major in Quantitative Finance at Paris Dauphine PSL University.
-
-Currently seeking an entry-level position in Quantitative Finance starting July 2026.
+Master’s student in Financial Engineering with strong interest in data science, machine learning and open-source development. Seeking opportunities to apply Python skills in collaborative and real-world tech projects.
 
 ## Interests
 - Derivatives pricing
