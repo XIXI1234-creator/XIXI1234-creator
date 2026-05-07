@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Xixi 👋
 
-<!--
-**XIXI1234-creator/XIXI1234-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Master's student in Financial Engineering with a major in Quantitative Finance at Paris Dauphine PSL University.
 
-Here are some ideas to get you started:
+Currently seeking an entry-level position in Quantitative Finance starting July 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Derivatives pricing
+- Financial markets
+- Market risk
+- Quantitative finance
+
+## Technical skills
+- Python (Pandas, NumPy, Scikit-learn)
+- VBA, SQL, R
+
+## Projects
+
+- Machine Learning for Fraud Detection (academic project)
+  Academic project based on a Collège de France Data Challenge
+
+- Option Pricing Model 
+  Monte Carlo simulation and Black-Scholes implementation for European options pricing.
+
+- Portfolio Risk Analysis  
+  Computation of Value at Risk (VaR), volatility, and portfolio optimization.
+
+- Fixed Income Analytics  
+  Bond pricing, yield curve analysis, and interest rate sensitivity.
